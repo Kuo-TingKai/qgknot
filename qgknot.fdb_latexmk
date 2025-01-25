@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737763133.46636 "/Users/kevin.k/qgknot/qgknot.tex" "qgknot.pdf" "qgknot" 1737763134.53136 0
-  "/Users/kevin.k/qgknot/qgknot.tex" 1737763132.15395 54359 0633915dec8d9a6809095a8f97a6d1d1 ""
+["pdflatex"] 1737813384.26697 "/Users/kevin.k/qgknot/qgknot.tex" "qgknot.pdf" "qgknot" 1737813385.33047 0
+  "/Users/kevin.k/qgknot/qgknot.tex" 1737813382.89895 57716 ab0e51d8374230168d2abc2393fd6df1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -171,10 +171,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729762273.75931 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729762255 8221430 77892b18be7ce721900a10af197c05b4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "qgknot.aux" 1737763134.43162 5998 d3f9efcbabf05001eef83f9d16bf45c5 "pdflatex"
-  "qgknot.out" 1737763134.43297 9588 7e84ae746e3ee9cd3d4980177a58ca54 "pdflatex"
-  "qgknot.tex" 1737763132.15395 54359 0633915dec8d9a6809095a8f97a6d1d1 ""
-  "qgknot.toc" 1737763134.43334 3718 325c339d9a2d26c0dbca0a1570350545 "pdflatex"
+  "qgknot.aux" 1737813385.22478 6169 1c5e61dc89dc69971497a198b27b0020 "pdflatex"
+  "qgknot.out" 1737813385.22624 9973 42967413db7b31c286181ec8e819ed85 "pdflatex"
+  "qgknot.tex" 1737813382.89895 57716 ab0e51d8374230168d2abc2393fd6df1 ""
+  "qgknot.toc" 1737813385.22672 3848 b576011205b0052493d4a633b09a7813 "pdflatex"
   (generated)
   "qgknot.aux"
   "qgknot.log"
